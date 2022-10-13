@@ -35,3 +35,9 @@ p {
   color: #800000;
   font-size: 7px;
 }
+
+.abc {
+  color: #C71585;
+  font-family: "Lucida Console", "Courier New", monospace;
+  font-size: 10px;
+}
