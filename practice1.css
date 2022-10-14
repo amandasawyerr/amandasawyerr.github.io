@@ -45,3 +45,10 @@ p {
 nav {
   text-align: center;
 }
+
+.tbl {
+  column-count: 3;
+  column-gap: 40px;
+  column-rule-style: dotted;
+  column-rule-color: #ff0000;
+}
