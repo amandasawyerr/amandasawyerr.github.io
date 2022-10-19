@@ -12,7 +12,7 @@ h1 {
 }
 
 h2 {
-  color: #008080;
+  color: #20B2AA;
   font-family: "Lucida Console", "Courier New", monospace;
   font-size: 30px;
   margin-left: 20px;
@@ -27,7 +27,7 @@ h3 {
 
 p {
   font-family: Arial, Helvetica, sans-serif;
-  color: #2F4F4F;
+  color: #008080;
   font-size: 15px;
   margin-left: 5px;
 }
@@ -41,7 +41,7 @@ p {
 
 /* x */
 .abc {
-  color: #C71585;
+  color: #483D8B;
   font-family: "Lucida Console", "Courier New", monospace;
   font-size: 18px;
 }
@@ -49,8 +49,6 @@ p {
 /* x */
 nav {
   text-align: center;
-}
-
 }
 
 /* links */
