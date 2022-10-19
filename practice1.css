@@ -68,3 +68,11 @@ a:hover, a:active {
   color: #B0C4DE;
   text-decoration: underline;
 }
+
+aside {
+  width: 50%;
+  padding-left: 30px;
+  margin-left: 30px;
+  float: right;
+  background-color: #FFE4E1;
+}
