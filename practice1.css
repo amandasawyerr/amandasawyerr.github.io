@@ -6,7 +6,7 @@
 /* simple background, indented a little to the left to make the page look more full, referencing W3schools CSS Backgrounds page */
 body {
   background-color: #eee8aa;
-  padding-left: 100px;
+  padding-left: 50px;
 }
 
 /* large centered text for heading, smaller text styles and non-centered for rest */
