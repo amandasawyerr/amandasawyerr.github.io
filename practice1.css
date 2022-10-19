@@ -1,10 +1,15 @@
-/* x */
+/* my CSS page */
+/* all colours found on W3schools HTML Color Names page*/
+/* all text styles found on W3schools CSS Fonts and CSS Text pages */
+/* each element was selected based off of W3schools CSS selectors page */
+
+/* simple background, indented a little to the left to make the page look more full, referencing W3schools CSS Backgrounds page */
 body {
   background-color: #eee8aa;
   padding-left: 100px;
 }
 
-/* x */
+/* large centered text for heading, smaller text styles and non-centered for rest */
 h1 {
   color: #db7093;
   font-family: "Lucida Console", "Courier New", monospace;
@@ -16,7 +21,7 @@ h2 {
   color: #20B2AA;
   font-family: "Lucida Console", "Courier New", monospace;
   font-size: 30px;
-  text-align: center;
+  margin-left: 10px;
 }
 
 h3 {
@@ -30,33 +35,33 @@ p {
   font-family: Arial, Helvetica, sans-serif;
   color: #008080;
   font-size: 15px;
-  margin-left: 5px;
+  margin-left: 20px;
 }
 
-/* x */
+/* using the id selector to target a specific element, referencing W3schools CSS Selectors page */
 #foot {
   font-family: "Times New Roman", Times, serif;
   color: #800000;
   font-size: 12px;
 }
 
-/* x */
+/* using the class selector to target a specific element, referencing W3schools CSS Selectors page */
 .abc {
   color: #483D8B;
   font-family: "Lucida Console", "Courier New", monospace;
   font-size: 18px;
 }
 
-/* x */
+/* aligning the navigation bar to the center, referencing CSS Navigation Bar page */
 nav {
   text-align: center;
 }
 
-/* links */
+/* fancy and fat links for the navigation bar and external links, referencing CSS Links page */
 a:link, a:visited {
   background-color: #db7093;
   color: #008080;
-  border: 4px solid #8B4513;
+  border: 3px solid #FFE4E1;
   padding: 20px 20px;
   text-align: center;
   text-decoration: none;
@@ -70,9 +75,12 @@ a:hover, a:active {
   text-decoration: underline;
 }
 
+/* styling the aside element to take up a large chunk on the page, referencing W3schools HTML <aside> Tag page */
 aside {
   width: 50%;
   padding-left: 30px;
+  padding-top: 100px;
+  padding-bottom: 100px;
   margin-left: 30px;
   float: right;
   background-color: #FFE4E1;
