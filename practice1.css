@@ -27,14 +27,14 @@ h2 {
 h3 {
   color: #8B4513;
   font-family: "Lucida Console", "Courier New", monospace;
-  font-size: 20px;
+  font-size: 25px;
   margin-left: 20px;
 }
 
 p {
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: "Lucida Console", "Courier New", monospace;
   color: #008080;
-  font-size: 15px;
+  font-size: 20px;
   margin-left: 20px;
 }
 
@@ -48,7 +48,11 @@ p {
 /* using the class selector to target a specific element, referencing W3schools CSS Selectors page */
 .abc {
   color: #483D8B;
-  font-family: "Lucida Console", "Courier New", monospace;
+  font-size: 18px;
+}
+
+.dfg {
+  color: #8B4513;
   font-size: 18px;
 }
 
