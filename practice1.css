@@ -71,18 +71,18 @@ div.container {
 }
 
 /* links */
-lk:link, lk:visited {
+a:link, a:visited {
   background-color: #db7093;
   color: #008080;
   border: 4px solid #8B4513;
-  padding: 10px 20px;
+  padding: 20px 20px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
 }
 
 /* link changes in colour when hovered over */
-lk:hover, lk:active {
+a:hover, a:active {
   background-color: #eee8aa;
   color: #B0C4DE;
 }
