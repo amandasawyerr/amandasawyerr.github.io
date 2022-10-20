@@ -69,6 +69,7 @@ a:link, a:visited {
   border: 3px solid #FFE4E1;
   padding: 20px 20px;
   text-align: center;
+  font-family: Veranda, Helvetica, sans-serif;
   text-decoration: none;
   display: inline-block;
 }
